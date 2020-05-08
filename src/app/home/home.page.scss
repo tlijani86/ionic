@@ -7,12 +7,16 @@
   top: 50%;
   transform: translateY(-50%);
 }
-
+.myfooter
+{ text-align: center;}
 #container strong {
   font-size: 20px;
   line-height: 26px;
 }
-
+.Toolbar
+{
+  background-color: #3a0d22;
+}
 #container p {
   font-size: 16px;
   line-height: 22px;
@@ -25,3 +29,6 @@
 #container a {
   text-decoration: none;
 }
+
+.iconYellow
+{color:#f4e242;}
